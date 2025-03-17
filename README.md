@@ -42,3 +42,6 @@ A simple spreadsheet demo built with React, showcasing large-scale grid renderin
 
 3.	Open your browser
 `Navigate to http://localhost:3000`
+
+4. Live in heroku
+https://excelclone-app-2c01eb22cda0.herokuapp.com/
