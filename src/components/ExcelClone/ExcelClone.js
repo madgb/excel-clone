@@ -4,7 +4,6 @@ import useDebouncedResize from "./useDebouncedResize";
 
 import {
   makeKey,
-  parseKey,
   getColumnLabel,
   getCellAddress,
   addressToRC,
